@@ -1,6 +1,9 @@
 //Objective is, given two words, to find the number of subsequences that 
 //word2 can fit in word1, given that word1 is longer than word2
 
+let s = 'bagbagbag'
+let t = 'bag'
+
 
 //O(n * m) solution using dynamic programming where n and m are the lengths of the two words
 
